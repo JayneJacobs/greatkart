@@ -138,6 +138,7 @@ pythonenv*
 .mypy_cache/
 .dmypy.json
 dmypy.json
+.env
 
 # Pyre type checker
 .pyre/
@@ -154,3 +155,5 @@ dmypy.json
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+.env
+
